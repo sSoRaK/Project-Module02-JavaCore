@@ -1,0 +1,84 @@
+------- Product List -------
+Category ID: 1
+Category Name: danh mục 1
+Product ID: P001
+Product Name: sản phẩm b
+Quantity: 12
+Import Price: 125.0
+Export Price: 521.0
+Profits: 396.0
+Description: mô tả b
+Product Status: true
+-----------------------------
+------- Product List -------
+Category ID: 2
+Category Name: danh mục 2
+Product ID: P002
+Product Name: sản phẩm a
+Quantity: 0
+Import Price: 521.0
+Export Price: 1023.0
+Profits: 502.0
+Description: mô tả a
+Product Status: false
+-----------------------------
+------- Product List -------
+Category ID: 3
+Category Name: danh mục 3
+Product ID: P003
+Product Name: sản phẩm c
+Quantity: 7
+Import Price: 124.0
+Export Price: 521.0
+Profits: 397.0
+Description: mô tả c
+Product Status: true
+-----------------------------
+------- Product List -------
+Category ID: 1
+Category Name: danh mục 1
+Product ID: P004
+Product Name: sản phẩm g
+Quantity: 0
+Import Price: 671.0
+Export Price: 1239.0
+Profits: 568.0
+Description: mô tả g
+Product Status: false
+-----------------------------
+------- Product List -------
+Category ID: 4
+Category Name: danh mục 4
+Product ID: P005
+Product Name: sản phẩm 6
+Quantity: 0
+Import Price: 124.0
+Export Price: 761.0
+Profits: 637.0
+Description: mô tả 6
+Product Status: false
+-----------------------------
+------- Product List -------
+Category ID: 4
+Category Name: danh mục 4
+Product ID: P006
+Product Name: sản phẩm d
+Quantity: 2
+Import Price: 2635.0
+Export Price: 5712.0
+Profits: 3077.0
+Description: mô tả d
+Product Status: true
+-----------------------------
+------- Product List -------
+Category ID: 1
+Category Name: danh mục 1
+Product ID: P007
+Product Name: xiami mi
+Quantity: 33
+Import Price: 623.0
+Export Price: 1223.0
+Profits: 600.0
+Description: điện thoại
+Product Status: true
+-----------------------------
